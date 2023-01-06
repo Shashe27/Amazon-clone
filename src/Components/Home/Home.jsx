@@ -15,7 +15,7 @@ function Home() {
           <Product
             id="12321341"
             title="New Apple iMac with Retina 5K Display (27-inch, 8GB RAM, 256GB SSD Storage)"
-            price="1100.96"
+            price={1100.96}
             rating={5}
             image="https://m.media-amazon.com/images/I/71KR2i6-WaL._AC_UY218_.jpg"
           />
