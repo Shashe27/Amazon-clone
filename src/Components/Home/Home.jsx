@@ -91,7 +91,7 @@ function Home() {
           />
           <Product
             id="9990385023"
-            title="Mac book EcoNour Car Windshield Sun Shade with Storage Pouch | Durable 240T Material Car Sun Visor for UV Rays and Sun Heat Protection | Car Interior Accessories for Sun Heat | Standard (64 inches x 32 inches)"
+            title="EcoNour Car Windshield Sun Shade with Storage Pouch | Durable 240T Material Car Sun Visor for UV Rays and Sun Heat Protection | Car Interior Accessories for Sun Heat | Standard (64 inches x 32 inches)"
             price={3139.99}
             rating={4}
             image="https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/81cKgyRcl6L._AC_SX425_.jpg"
